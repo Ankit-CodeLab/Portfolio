@@ -26,6 +26,10 @@
     box-sizing: border-box;
 }
 
+html {
+    background-color: #0a0a0a;
+}
+
 /* Prevent mobile zoom on input focus */
 input,
 textarea,
